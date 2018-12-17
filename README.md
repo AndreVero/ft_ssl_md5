@@ -1,0 +1,2 @@
+# ft_ssl_md5
+MD5 SHA256 SHA512
